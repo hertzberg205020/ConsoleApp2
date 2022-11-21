@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c72396cb_002D47c4_002D4183_002D95b0_002D208ef9a4b35d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Demo01" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::D96D7C0C-B8A0-48E7-A987-7CFB892F924B::.NETFramework,Version=v4.8::ConsoleApp2.LinqDemo.Demo01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::D96D7C0C-B8A0-48E7-A987-7CFB892F924B::.NETFramework,Version=v4.8::ConsoleApp2.LinqDemo.Demo02&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::D96D7C0C-B8A0-48E7-A987-7CFB892F924B::.NETFramework,Version=v4.8::ConsoleApp2.LinqDemo.Demo03&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::D96D7C0C-B8A0-48E7-A987-7CFB892F924B::.NETFramework,Version=v4.8::ConsoleApp2.LinqDemo.Demo04&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::D96D7C0C-B8A0-48E7-A987-7CFB892F924B::.NETFramework,Version=v4.8::ConsoleApp2.LinqDemo.Demo05&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::D96D7C0C-B8A0-48E7-A987-7CFB892F924B::.NETFramework,Version=v4.8::ConsoleApp2.LinqDemo02.Demo01&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::D96D7C0C-B8A0-48E7-A987-7CFB892F924B::.NETFramework,Version=v4.8::ConsoleApp2.LinqDemo02.Demo02&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::D96D7C0C-B8A0-48E7-A987-7CFB892F924B::.NETFramework,Version=v4.8::ConsoleApp2.LinqDemo02.Demo03&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
